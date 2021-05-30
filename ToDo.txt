@@ -1,0 +1,5 @@
+1. Calvin/Richard - Create flowchart for Character Creation
+2. Calvin - Edge cases for each class 
+3. Draw up what the GUI looks likes
+
+Write out the object inheritence flowchart to see how we need.
